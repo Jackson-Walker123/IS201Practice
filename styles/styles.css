@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(210, 250, 255);
+}
+
+h1{
+    color : hotpink;
+    text-align: center;
+    font-size: 72px;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+li{
+    color: gold; 
+    font-family: fantasy;
+}
+
